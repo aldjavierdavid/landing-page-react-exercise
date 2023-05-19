@@ -1,5 +1,8 @@
 function Footer() {
-    return <footer className="bg-secondary text-align-center">Soy un footer bootstrap creeme</footer>
+    return <div>
+      <br></br>
+      <footer className="bg-secondary text-center">Pagina fea:)</footer>
+      </div>
   }
 
   export default Footer
